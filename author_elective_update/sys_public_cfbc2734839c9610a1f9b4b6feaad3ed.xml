@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_public">
+    <sys_public action="DELETE">
+        <active>true</active>
+        <page>https://dev259273.service-now.com/sys_report_display.do?sysparm_report_id=9cb336</page>
+        <sys_class_name>sys_public</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 12:04:42</sys_created_on>
+        <sys_id>cfbc2734839c9610a1f9b4b6feaad3ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>https://dev259273.service-now.com/sys_report_display.do?sysparm_report_id=9cb336</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_public_cfbc2734839c9610a1f9b4b6feaad3ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 12:04:42</sys_updated_on>
+    </sys_public>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>40cd72081be90ed819254089bd4bcb55</instance_id>
+        <instance_name>dev259273</instance_name>
+        <name>sys_public_cfbc2734839c9610a1f9b4b6feaad3ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_public"><sys_public action="INSERT_OR_UPDATE"><active>true</active><page>https://dev259273.service-now.com/sys_report_display.do?sysparm_report_id=9cb336</page><sys_class_name>sys_public</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-08-26 12:04:42</sys_created_on><sys_id>cfbc2734839c9610a1f9b4b6feaad3ed</sys_id><sys_mod_count>0</sys_mod_count><sys_name>https://dev259273.service-now.com/sys_report_display.do?sysparm_report_id=9cb336</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_public_cfbc2734839c9610a1f9b4b6feaad3ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-08-26 12:04:42</sys_updated_on></sys_public></record_update>]]></payload>
+        <payload_hash>1006114067</payload_hash>
+        <record_name>https://dev259273.service-now.com/sys_report_display.do?sysparm_report_id=9cb336</record_name>
+        <reverted_from/>
+        <source>b8f3b25883441210a1f9b4b6feaad391</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 12:04:42</sys_created_on>
+        <sys_id>59dc6ff0839c9610a1f9b4b6feaad33e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1918e92f9910000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 12:04:42</sys_updated_on>
+        <type>Public Pages</type>
+        <update_guid>5ddc6ff0a59c96109ac8e857e5168f3d</update_guid>
+        <update_guid_history>5ddc6ff0a59c96109ac8e857e5168f3d:1006114067</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 12:06:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_public">sys_public</sys_db_object>
+        <sys_id>e33b72d55900493280d62e2fdc829944</sys_id>
+        <sys_metadata>cfbc2734839c9610a1f9b4b6feaad3ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>https://dev259273.service-now.com/sys_report_display.do?sysparm_report_id=9cb336</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_public_cfbc2734839c9610a1f9b4b6feaad3ed</sys_update_name>
+        <sys_update_version display_value="sys_public_cfbc2734839c9610a1f9b4b6feaad3ed">59dc6ff0839c9610a1f9b4b6feaad33e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 12:06:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
